@@ -1,2 +1,2 @@
-# git-and-github
-This is a sample repository for Setting up github
+We are learning Git and GitHub
+
